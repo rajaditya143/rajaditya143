@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year undergraduate student at NIT Jamshedpur.<br>I am currently exploring Augmented Reality & React Native.<br>In my spare time, I use to play mobile games and reading the news.
+I am a final-year undergraduate student at NIT Jamshedpur.<br>I am currently exploring Augmented Reality.<br>In my spare time, I use to play mobile games and reading the news.
 
 
 ## 🌐 Socials:
